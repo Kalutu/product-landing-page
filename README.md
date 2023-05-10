@@ -18,3 +18,8 @@ This is a sample webpage for a Classic Books website. It showcases various featu
 ## Usage
 To view the webpage, simply open the `index.html` file in a web browser.
 
+## Contributions
+Contributions to the project are welcome. Feel free to submit a pull request with any improvements or fixes.
+
+## Credits
+Readme created by Kalutu Daniel.
