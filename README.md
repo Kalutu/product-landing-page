@@ -2,7 +2,7 @@
 This is a sample webpage for a Classic Books website. It showcases various features, audio book content, and books available for sale. The webpage is built using HTML and CSS.
 
 ## Preview
-![Classic Books Website Preview](preview.png)
+![Classic Books Website Preview](images/product-landing-page.PNG)
 
 ## Features
 - Navigation menu with links to different sections of the webpage.
