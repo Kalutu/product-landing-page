@@ -163,7 +163,6 @@ h2 {
 .flex {
     display: flex;
     align-items: center;
-    margin-bottom: 10px;
 }
 
 .main-price {
@@ -200,13 +199,17 @@ h2 {
     color:var(--white);
     font-family: "montserrat";
     font-weight: 700;
-    margin-top: 100px;
+    margin-top: -30px;
 }
 
-@media only screen and (main-width: 600px)
+@media only screen and (min-width: 600px)
 {
     #nav-bar {
         flex-direction: row;
+    }
+
+    .add {
+        margin-top: -20px;
     }
 }
 
@@ -217,6 +220,9 @@ h2 {
 
     .product-image {
         height: 400px;
+    }
+    .add {
+        margin-top: -5px;
     }
 }
 
@@ -246,5 +252,19 @@ h2 {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
+    }
+}
+
+@media (max-width:450px)
+{
+    .inner-card {
+        height: 400px;
+    }
+    .flex {
+       justify-content: center;
+    }
+
+    .special {
+        margin-top: -70px;
     }
 }
